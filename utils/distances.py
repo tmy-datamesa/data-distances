@@ -1,5 +1,4 @@
 """Distance calculation functions."""
-import math
 
 def minkowski(a, b, p):
     """Genel mesafe formülü (Minkowski)"""
